@@ -1,9 +1,0 @@
-com/pokedex/MainActivity.java
- com.pokedex.MainActivity
-com/pokedex/MainApplication.java
- com.pokedex.MainApplication
- com.pokedex.MainApplication$1
-com/pokedex/BuildConfig.java
- com.pokedex.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList

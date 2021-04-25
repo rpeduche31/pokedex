@@ -1,4 +1,0 @@
-#Sun Apr 25 09:30:41 PST 2021
-base.0=/Users/rochesterpeduche/Desktop/pokeDex/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
